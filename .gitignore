@@ -116,8 +116,6 @@ schema.ts
 .terraform
 
 # CDK
-*.js
-*.js.map
 !jest.config.js
 *.d.ts
 node_modules
